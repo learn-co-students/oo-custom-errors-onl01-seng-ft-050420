@@ -1,4 +1,4 @@
-class Person
+class child < Parent
   attr_accessor :partner, :name
 
   def initialize(name)
